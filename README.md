@@ -1,2 +1,2 @@
-# HighQualityWindows
+# HighQualityWindows-Project
 Static website project
